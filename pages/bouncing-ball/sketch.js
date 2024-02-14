@@ -1,3 +1,5 @@
+/// <reference path="../../node_modules/@types/p5/global.d.ts" />
+
 console.log('start')
 let balls = []
 const maxBall = 100
